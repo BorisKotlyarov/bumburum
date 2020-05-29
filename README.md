@@ -6,7 +6,7 @@ Changing the color of text in the console is very easy, especially if you use co
 ## Install ##
 
 ```bash
-npm i colors-lite
+npm i bumburum
 ```
 
 ## Usage ##
