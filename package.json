@@ -1,0 +1,24 @@
+{
+  "name": "bumburum",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorisKotlyarov/colors-lite.git"
+  },
+  "keywords": [
+    "colors",
+    "console",
+    "console colors"
+  ],
+  "author": "Boris Kotlyarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BorisKotlyarov/colors-lite/issues"
+  },
+  "homepage": "https://github.com/BorisKotlyarov/colors-lite#readme"
+}
