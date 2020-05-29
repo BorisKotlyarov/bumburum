@@ -1,5 +1,5 @@
 # Bumburum #
-Changing the color of text in the console is very easy, especially if you use colors-lite
+Changing the color of text in the console is very easy, especially if you use **bumburum**
 
 ![bumburum](asserts/screen_2.png)
 
