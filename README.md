@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/BorisKotlyarov/colors-lite.svg?branch=master)](https://travis-ci.org/BorisKotlyarov/colors-lite)
 [![NPM version](http://badge.fury.io/js/bumburum.png)](https://npmjs.org/package/bumburum "View this project on NPM")
 [![dependencies Status](https://david-dm.org/BorisKotlyarov/bumburum/status.svg)](https://david-dm.org/BorisKotlyarov/bumburum)
-[![Development Dependency Status](https://david-dm.org/nfriedly/express-rate-limit/dev-status.png?theme=shields.io)](https://david-dm.org/nfriedly/bumburum#info=devDependencies)
+[![devDependencies Status](https://david-dm.org/BorisKotlyarov/bumburum/dev-status.svg)](https://david-dm.org/BorisKotlyarov/bumburum?type=dev)
 
 Changing the color of text in the console is very easy, especially if you use **bumburum**
 
