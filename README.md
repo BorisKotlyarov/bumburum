@@ -1,6 +1,6 @@
 # Bumburum #
 
-[![Build Status](https://travis-ci.org/BorisKotlyarov/colors-lite.svg?branch=master)](https://travis-ci.org/BorisKotlyarov/colors-lite)
+[![Build Status](https://travis-ci.org/BorisKotlyarov/bumburum.svg?branch=master)](https://travis-ci.org/BorisKotlyarov/bumburum)
 [![NPM version](http://badge.fury.io/js/bumburum.png)](https://npmjs.org/package/bumburum "View this project on NPM")
 [![dependencies Status](https://david-dm.org/BorisKotlyarov/bumburum/status.svg)](https://david-dm.org/BorisKotlyarov/bumburum)
 [![devDependencies Status](https://david-dm.org/BorisKotlyarov/bumburum/dev-status.svg)](https://david-dm.org/BorisKotlyarov/bumburum?type=dev)
