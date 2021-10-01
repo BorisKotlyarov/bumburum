@@ -40,7 +40,7 @@ console.log(
 ``` 
 **TypeScript**
 ```js
-import * as colors from 'bumburum';
+import colors from 'bumburum';
 
 
 console.log(`test: ${colors.font.Green}`,  `Any text`);
