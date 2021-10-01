@@ -24,5 +24,11 @@
   "homepage": "https://github.com/BorisKotlyarov/bumburum#readme",
   "devDependencies": {
     "mocha": "^9.1.2"
-  }
+  },
+  "contributors": [
+    {
+      "name" : "Nykytenko Yevhenii",
+      "url" : "https://github.com/NykytenkoYN"
+    }
+  ]
 }
